@@ -12,47 +12,47 @@ import img11 from "../images/image-11.jpeg";
 
 export const imgPath = [
   {
-    id: 0,
+    id: "0",
     path: img01,
   },
   {
-    id: 1,
+    id: "1",
     path: img02,
   },
   {
-    id: 2,
+    id: "2",
     path: img03,
   },
   {
-    id: 3,
+    id: "3",
     path: img04,
   },
   {
-    id: 4,
+    id: "4",
     path: img05,
   },
   {
-    id: 5,
+    id: "5",
     path: img06,
   },
   {
-    id: 6,
+    id: "6",
     path: img07,
   },
   {
-    id: 7,
+    id: "7",
     path: img08,
   },
   {
-    id: 8,
+    id: "8",
     path: img09,
   },
   {
-    id: 9,
+    id: "9",
     path: img10,
   },
   {
-    id: 10,
+    id: "10",
     path: img11,
   },
 ];

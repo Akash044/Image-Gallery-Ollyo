@@ -76,18 +76,6 @@ const Example = () => {
     }
   };
 
-  // const initSortableList = (e) => {
-  //   e.preventDefault();
-  //   const draggingItem = e.target.querySelector(".dragging");
-  //   const siblings = [...e.target.querySelectorAll(".item:not(.dragging)")];
-
-  //   let nextSibling = siblings.find((sibling) => {
-  //     return e.clientY <= sibling.offsetTop + sibling.offsetHeight / 2;
-  //   });
-
-  //   e.target.insertBefore(draggingItem, nextSibling);
-  // };
-
   return (
     <>
       {selectedList.length !== 0 && (
